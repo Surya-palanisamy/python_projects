@@ -1,0 +1,4 @@
+pynput
+scapy
+pyfiglet
+pyautogui
