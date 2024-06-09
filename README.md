@@ -1,6 +1,6 @@
 ## Installation Steps
 ```bash
-git clone https://github.com/Hack-With-Rohith-tamil/PYTHON-HACKING-SCRIPTS.git
+git clonehttps://github.com/Surya-palanisamy/python_projects.git
 ```
 - cd PYTHON-HACKING-SCRIPTS
 
