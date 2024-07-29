@@ -6,7 +6,7 @@ import smtplib
 import threading
 import pyfiglet
 
-msg = pyfiglet.figlet_format("Hack With Rohit")
+msg = pyfiglet.figlet_format("key logger")
 print(msg)
 
 log = ""
